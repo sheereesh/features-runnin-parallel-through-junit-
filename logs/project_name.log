@@ -1,0 +1,95 @@
+14-05-2023---12:33:29.117 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-Invoking the browser
+14-05-2023---12:33:50.888 INFO [main][utility.DriverManager.launchBrowser(DriverManager.java:100)]-org.openqa.selenium.remote.http.ConnectionFailedException: Unable to establish websocket connection to http://localhost:49659/devtools/browser/c277cbb3-588a-4931-b4be-609e2b4fbbf4
+Build info: version: '4.2.1', revision: 'ac4d0fdd4a'
+System info: host: 'DESKTOP-QUC37FL', ip: '192.168.1.66', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.3'
+Driver info: driver.version: ChromeDriver
+14-05-2023---12:33:51.017 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-Invoking the browser
+14-05-2023---12:33:53.302 INFO [main][utility.DriverManager.launchBrowser(DriverManager.java:100)]-org.openqa.selenium.remote.http.ConnectionFailedException: Unable to establish websocket connection to http://localhost:49687/devtools/browser/d47872bb-b8e0-4fd9-936d-eb9dd231bbe6
+Build info: version: '4.2.1', revision: 'ac4d0fdd4a'
+System info: host: 'DESKTOP-QUC37FL', ip: '192.168.1.66', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.3'
+Driver info: driver.version: ChromeDriver
+14-05-2023---13:20:42.585 INFO [pool-3-thread-1][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-Invoking the browser
+14-05-2023---13:21:10.931 INFO [pool-3-thread-1][utility.DriverManager.launchBrowser(DriverManager.java:100)]-org.openqa.selenium.remote.http.ConnectionFailedException: Unable to establish websocket connection to http://localhost:50282/devtools/browser/0f75d12e-1f72-431a-b2d2-1d2f225052aa
+Build info: version: '4.2.1', revision: 'ac4d0fdd4a'
+System info: host: 'DESKTOP-QUC37FL', ip: '192.168.1.66', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.3'
+Driver info: driver.version: ChromeDriver
+14-05-2023---13:21:11.149 INFO [pool-3-thread-1][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-Invoking the browser
+14-05-2023---13:21:31.624 INFO [pool-3-thread-1][utility.DriverManager.launchBrowser(DriverManager.java:100)]-org.openqa.selenium.remote.http.ConnectionFailedException: Unable to establish websocket connection to http://localhost:50310/devtools/browser/d7c084dd-a369-4a57-8fcf-b69a63cf74b8
+Build info: version: '4.2.1', revision: 'ac4d0fdd4a'
+System info: host: 'DESKTOP-QUC37FL', ip: '192.168.1.66', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.3'
+Driver info: driver.version: ChromeDriver
+14-05-2023---13:28:48.809 INFO [pool-3-thread-1][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-Invoking the browser
+14-05-2023---13:29:25.178 INFO [pool-3-thread-1][utility.DriverManager.launchBrowser(DriverManager.java:100)]-org.openqa.selenium.remote.http.ConnectionFailedException: Unable to establish websocket connection to http://localhost:51568/devtools/browser/6f38a27e-11c9-4e87-b7d0-b6d63779c129
+Build info: version: '4.2.1', revision: 'ac4d0fdd4a'
+System info: host: 'DESKTOP-QUC37FL', ip: '192.168.1.66', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.3'
+Driver info: driver.version: ChromeDriver
+14-05-2023---13:29:25.449 INFO [pool-3-thread-1][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-Invoking the browser
+14-05-2023---13:29:50.389 INFO [pool-3-thread-1][utility.DriverManager.launchBrowser(DriverManager.java:100)]-org.openqa.selenium.remote.http.ConnectionFailedException: Unable to establish websocket connection to http://localhost:51612/devtools/browser/26d5f40d-3c95-4f75-a211-fa5e94cec3fd
+Build info: version: '4.2.1', revision: 'ac4d0fdd4a'
+System info: host: 'DESKTOP-QUC37FL', ip: '192.168.1.66', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.3'
+Driver info: driver.version: ChromeDriver
+14-05-2023---19:38:55.025 INFO [pool-3-thread-1][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-Invoking the browser
+14-05-2023---19:39:32.171 INFO [pool-3-thread-1][utility.DriverManager.launchBrowser(DriverManager.java:100)]-org.openqa.selenium.remote.http.ConnectionFailedException: Unable to establish websocket connection to http://localhost:49884/devtools/browser/b3ac350d-16d7-4900-a554-99980d55545d
+Build info: version: '4.2.1', revision: 'ac4d0fdd4a'
+System info: host: 'DESKTOP-QUC37FL', ip: '192.168.1.66', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.3'
+Driver info: driver.version: ChromeDriver
+14-05-2023---19:39:32.224 INFO [pool-3-thread-1][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-Invoking the browser
+14-05-2023---19:39:37.826 INFO [pool-3-thread-1][utility.DriverManager.launchBrowser(DriverManager.java:100)]-org.openqa.selenium.remote.http.ConnectionFailedException: Unable to establish websocket connection to http://localhost:49911/devtools/browser/dc03aa8c-85b5-480e-9a9a-6a26174394d8
+Build info: version: '4.2.1', revision: 'ac4d0fdd4a'
+System info: host: 'DESKTOP-QUC37FL', ip: '192.168.1.66', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.3'
+Driver info: driver.version: ChromeDriver
+14-05-2023---19:46:15.902 INFO [pool-3-thread-1][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-Invoking the browser
+14-05-2023---19:46:40.299 INFO [pool-3-thread-1][hooks.Hooks.openBrowserAndUrl(Hooks.java:61)]-url opened
+14-05-2023---19:46:41.014 INFO [pool-3-thread-1][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-Invoking the browser
+14-05-2023---19:46:41.015 ERROR [pool-3-thread-1][hooks.Hooks.openBrowserAndUrl(Hooks.java:65)]-Driver is not null
+14-05-2023---19:59:53.441 INFO [pool-3-thread-1][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-Invoking the browser
+14-05-2023---20:00:34.699 INFO [pool-3-thread-1][hooks.Hooks.openBrowserAndUrl(Hooks.java:61)]-url opened
+14-05-2023---20:00:34.910 INFO [pool-3-thread-1][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-Invoking the browser
+14-05-2023---20:00:34.910 ERROR [pool-3-thread-1][hooks.Hooks.openBrowserAndUrl(Hooks.java:65)]-Driver is not null
+14-05-2023---20:12:52.558 INFO [pool-3-thread-1][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-Invoking the browser
+14-05-2023---20:12:52.558 INFO [pool-3-thread-2][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-Invoking the browser
+14-05-2023---20:13:27.797 INFO [pool-3-thread-1][hooks.Hooks.openBrowserAndUrl(Hooks.java:61)]-url opened
+14-05-2023---20:13:28.040 INFO [pool-3-thread-1][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-Invoking the browser
+14-05-2023---20:13:28.041 ERROR [pool-3-thread-1][hooks.Hooks.openBrowserAndUrl(Hooks.java:65)]-Driver is not null
+14-05-2023---20:13:32.452 INFO [pool-3-thread-2][hooks.Hooks.openBrowserAndUrl(Hooks.java:61)]-url opened
+14-05-2023---20:13:32.458 INFO [pool-3-thread-2][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-Invoking the browser
+14-05-2023---20:13:32.458 ERROR [pool-3-thread-2][hooks.Hooks.openBrowserAndUrl(Hooks.java:65)]-Driver is not null
+14-05-2023---20:15:26.928 INFO [pool-3-thread-2][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-Invoking the browser
+14-05-2023---20:15:26.928 INFO [pool-3-thread-1][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-Invoking the browser
+14-05-2023---20:15:48.695 INFO [pool-3-thread-2][hooks.Hooks.openBrowserAndUrl(Hooks.java:61)]-url opened
+14-05-2023---20:15:48.729 INFO [pool-3-thread-2][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-Invoking the browser
+14-05-2023---20:15:48.730 ERROR [pool-3-thread-2][hooks.Hooks.openBrowserAndUrl(Hooks.java:65)]-Driver is not null
+14-05-2023---20:15:48.729 INFO [pool-3-thread-1][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-Invoking the browser
+14-05-2023---20:15:48.732 ERROR [pool-3-thread-1][hooks.Hooks.openBrowserAndUrl(Hooks.java:65)]-Driver is not null
+14-05-2023---20:17:03.324 INFO [pool-3-thread-1][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-Invoking the browser
+14-05-2023---20:17:03.324 INFO [pool-3-thread-2][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-Invoking the browser
+14-05-2023---20:17:31.844 INFO [pool-3-thread-2][hooks.Hooks.openBrowserAndUrl(Hooks.java:61)]-url opened
+14-05-2023---20:17:31.912 INFO [pool-3-thread-2][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-Invoking the browser
+14-05-2023---20:17:31.917 ERROR [pool-3-thread-2][hooks.Hooks.openBrowserAndUrl(Hooks.java:65)]-Driver is not null
+14-05-2023---20:17:32.376 INFO [pool-3-thread-1][hooks.Hooks.openBrowserAndUrl(Hooks.java:61)]-url opened
+14-05-2023---20:17:32.560 INFO [pool-3-thread-1][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-Invoking the browser
+14-05-2023---20:17:32.561 ERROR [pool-3-thread-1][hooks.Hooks.openBrowserAndUrl(Hooks.java:65)]-Driver is not null
+22-05-2023---22:06:04.983 INFO [pool-3-thread-1][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-Invoking the browser
+22-05-2023---22:06:04.983 INFO [pool-3-thread-2][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-Invoking the browser
+22-05-2023---22:06:05.002 INFO [pool-3-thread-1][utility.DriverManager.launchBrowser(DriverManager.java:100)]-java.lang.NullPointerException: Cannot invoke "String.hashCode()" because "<local1>" is null
+22-05-2023---22:06:05.002 INFO [pool-3-thread-2][utility.DriverManager.launchBrowser(DriverManager.java:100)]-java.lang.NullPointerException: Cannot invoke "String.hashCode()" because "<local1>" is null
+22-05-2023---22:06:05.026 INFO [pool-3-thread-1][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-Invoking the browser
+22-05-2023---22:06:05.026 INFO [pool-3-thread-2][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-Invoking the browser
+22-05-2023---22:06:05.027 INFO [pool-3-thread-2][utility.DriverManager.launchBrowser(DriverManager.java:100)]-java.lang.NullPointerException: Cannot invoke "String.hashCode()" because "<local1>" is null
+22-05-2023---22:06:05.027 INFO [pool-3-thread-1][utility.DriverManager.launchBrowser(DriverManager.java:100)]-java.lang.NullPointerException: Cannot invoke "String.hashCode()" because "<local1>" is null
+22-05-2023---22:06:43.910 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-Invoking the browser
+22-05-2023---22:07:13.842 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:61)]-url opened
+22-05-2023---22:07:13.871 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-Invoking the browser
+22-05-2023---22:07:13.873 ERROR [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:65)]-Driver is not null
+22-05-2023---22:07:13.877 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-Invoking the browser
+22-05-2023---22:07:13.877 ERROR [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:65)]-Driver is not null
+22-05-2023---22:07:13.883 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-Invoking the browser
+22-05-2023---22:07:13.884 ERROR [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:65)]-Driver is not null
+22-05-2023---22:07:39.670 INFO [pool-3-thread-2][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-Invoking the browser
+22-05-2023---22:07:39.670 INFO [pool-3-thread-1][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-Invoking the browser
+22-05-2023---22:08:01.648 INFO [pool-3-thread-1][hooks.Hooks.openBrowserAndUrl(Hooks.java:61)]-url opened
+22-05-2023---22:08:01.815 INFO [pool-3-thread-1][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-Invoking the browser
+22-05-2023---22:08:01.816 ERROR [pool-3-thread-1][hooks.Hooks.openBrowserAndUrl(Hooks.java:65)]-Driver is not null
+22-05-2023---22:08:02.667 INFO [pool-3-thread-2][hooks.Hooks.openBrowserAndUrl(Hooks.java:61)]-url opened
+22-05-2023---22:08:02.669 INFO [pool-3-thread-2][hooks.Hooks.openBrowserAndUrl(Hooks.java:56)]-Invoking the browser
+22-05-2023---22:08:02.670 ERROR [pool-3-thread-2][hooks.Hooks.openBrowserAndUrl(Hooks.java:65)]-Driver is not null
